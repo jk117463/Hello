@@ -1,4 +1,10 @@
 msg = "HEllo World"
+print (msg.capitalize())
+hello = " Hi I am"
+name ="Jathin"
+greet = hello + name
+print(greet, name)
+
 #x=int(input("Type Anything:"))
 #print(5*x)
 # """ if "a" > "b":
